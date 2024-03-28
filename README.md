@@ -26,6 +26,8 @@
     <img  alt="Rnt-Js" height="56" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <h4> Ferramentas</h4>
     <img  alt="Rnt-Git" height="56" width="64" src="https://skillicons.dev/icons?i=git" />
+    <img  alt="Rnt-vscode" height="56" width="64" src="https://skillicons.dev/icons?i=vscode" />
+    <img  alt="Rnt-Git" height="56" width="64" src="https://skillicons.dev/icons?i=vscode" />
     <h4> Sistemas Operacionais </h4>
     <img  alt="Rnt-Win" height="56" width="64" src="https://skillicons.dev/icons?i=windows" />
     <img  alt="Rnt-linux" height="56" width="64" src="https://skillicons.dev/icons?i=linux" />
