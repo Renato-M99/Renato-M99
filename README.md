@@ -1,4 +1,7 @@
-### Olá, me chamo Renato! Seja bem vindo(a)! 👋
+
+
+<div align="center">
+  ### Olá, me chamo Renato! Seja bem vindo(a)! 👋
 
 - 🔭 Cursando Técnico em Desenvolvimento de Sistemas, SENAC
 - 🌱 Estudando HTML, CSS e JS
@@ -7,8 +10,6 @@
 <br> <br>
 
 
-
-<div align="center">
 <a align="center" href="https://github.com/Renato-M99/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Renato-M99&show_icons=true&theme=dark&hide=contribs,prs&border_radius=9.5&rank_icon=github" />
 </a>
