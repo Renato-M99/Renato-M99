@@ -1,9 +1,9 @@
-
-
-<div align="center">
   ### Olá, me chamo Renato! Seja bem vindo(a)! 👋
-  <br>
   -🔭 Cursando Técnico em Desenvolvimento de Sistemas, SENAC
+<div align="center">
+
+  <br>
+  
    <br> <br>
    <div align="center">
   <h3 style="font-size: 24px, font-weight: 700">Tecnologias: </h3>
