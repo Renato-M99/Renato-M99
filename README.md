@@ -1,11 +1,10 @@
-<div align="center>
+
+  Olá, me chamo Renato Martins! Seja bem vindo(a)! 👋
   
-  Olá, me chamo Renato! Seja bem vindo(a)! 👋
-  
-  - Estou cursando Técnico em Desenvolvimento de Sistemas, SENAC.
-  - Meu objetivo pessoal e profissional é me tornar um desenvolvedor Full-Stack ou Back-End.
+  - Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no SENAC de Santos - SP.
+  - Meu objetivo pessoal e profissional consiste em me tornar um desenvolvedor Full-Stack ou Back-End.
       
- </div>
+ 
 <div align="center">
 
   <br>
