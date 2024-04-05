@@ -1,9 +1,11 @@
-<div align="center">
+<div align="center>
   
-### Olá, me chamo Renato! Seja bem vindo(a)! 👋
-   -🔭 Estou cursando Técnico em Desenvolvimento de Sistemas, SENAC.
-    
-   </div>
+  Olá, me chamo Renato! Seja bem vindo(a)! 👋
+  
+  - Estou cursando Técnico em Desenvolvimento de Sistemas, SENAC.
+  - Meu objetivo pessoal e profissional é me tornar um desenvolvedor Full-Stack ou Back-End.
+      
+ </div>
 <div align="center">
 
   <br>
