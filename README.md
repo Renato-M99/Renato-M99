@@ -42,7 +42,7 @@
 </span>
 <br><br><br>
 <span  align="center" href="https://github.com/Renato-M99/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Renato-M99&layout=compact&langs_count=8&card_width=435&theme=dark&border-radius=9.5" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Renato-M99&layout=compact&langs_count=8&card_width=512&theme=dark&border-radius=9.5" />
 </span>
 </div>
 <br><br> <br>
